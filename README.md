@@ -2,7 +2,7 @@
 今日头条图集抓取
 
 
-config.py 修改图集起始（GROUP_START）、结束页（GROUP_END）和图集关键字（KEYWORD）
+config.py 修改图集起始（GROUP_START）、结束（GROUP_END）和图集关键字（KEYWORD）
 
 
 
